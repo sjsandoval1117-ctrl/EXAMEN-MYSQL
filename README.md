@@ -1,2 +1,1 @@
-# EXAMEN-MYSQL
 
